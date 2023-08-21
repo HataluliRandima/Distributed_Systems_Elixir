@@ -1,0 +1,3 @@
+# Introduction to Distributed Systems
+
+Distributed systems enable parallel computation, enhance fault tolerance, and facilitate resource sharing by connecting multiple individual machines, known as nodes. These nodes work together to achieve common tasks and provide a cohesive system, improving performance, scalability, and resilience. Elixir, leveraging the capabilities of the Erlang virtual machine (BEAM), offers intrinsic support for distributed computing. This section explores foundational concepts and practical aspects of distributed systems, providing hands-on examples and exercises to deepen understanding.
